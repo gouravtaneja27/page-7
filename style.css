@@ -44,7 +44,7 @@ section {
     color: rgba(30, 14, 98, 1);
     max-width: 207px;
 }
-span{
+sup {
     font-family: "DM Sans";
 font-weight: 400;
 font-size: 16px;
